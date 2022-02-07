@@ -83,3 +83,54 @@ Quais opções de conjunto de banco de dados são melhores. Escolha 2?
 - (Enable the Autoscaling of OCPU).
 
 
+7 - Você está trabalhando como um consultor de segurança com uma organização global de seguros que está usando o Microsoft Azure Active Directory como um provedor de identidade para gerenciar logins/senhas dos usuários. Quando os usuários fazem login no OCI Console, eles devem obter usuários autenticados do Azure AD.
+
+Quais passos são requiridos para configurar no lado da OCI na ordem para que esteja habilitado esta função de login?
+
+- Confgure o Azure AD como Provedor de Identidade, mapeie os Azure AD groups para o OCI groups, configure as políticas IAM para controlar o acesso do Azure AD groups.
+- (Set up AD as an Identity Provider, map Azure Ad groups to OCI groups, set up the IAM policies to govern access to Azure AD groups).
+
+
+8 - Você está implementando a infraestrutura Roving Edge no OCI. Como você deverá sincronizar os dados de Roving Edge Device (RED) com o OCI Object Storage na tenância OCI?
+
+- Você pode sincronizar seu conjunto de dados RED object storage com sua tenância do OCI depois o nó de borda é reconectado a sua região home do OCI.
+- (You can synchronize your RED object storage datasets with your Oracle Cloud Infrastructure tenancy after the edge node is reconnected to your home OCI region.
+
+
+9 - Uma companhia de manufaturamento está planejando migrar cargas de trabalho de bancos de dados on-premise para o OCI e contratou você para a migração. O cliente forneceu as seguintes informações sobre o seu seu banco de dados on-premise:
+
+Versão do banco de dados, database character set, storage for data staging, acceptable lenght of system outage.
+
+Qual informação adicional você precisa do cliente para recomendar o método de migração adequado?
+
+- Sistema operacional do host on-premises e a versão
+- (On-premises host operating system and version).
+- Tipos de dados usados no banco de dados on-premises
+- (Data types used in the on-premises database).
+
+
+10 - Uma empresa financeira está planejando migração de um banco de dados de 200GB para o OCI. O cliente está procurando por uma migração de tempo de inatividade zero e online.
+
+Quail opção você deverá escolher para migrar o banco de dados.
+
+- Use o serviço OCI Database Migration com Online e Exporte para a opção transferir dados médios.
+- (Use OCI Database Migration service with Online and Export to data transfer medium option).
+
+
+11 - Um companhia de seguros está armazenando dados financeiros críticos em um OCI Block Volume. Este volume está autualmente encriptado usando Oracle-managed keys. Devido a regulamentações de compliance, o cliente quer encriptar os dados usando as chaves que ele pode controlar e não as chaves controladas pela Oracle.
+
+Quais os seguintes etapas de tarefas são requeridas para encriptar o block volume usando customer-managed keys?
+
+- Crie um Vault, crie uma chave de encriptação mestra no Vault, atribua a chave mestra de encriptação ao block volume.
+- (Create a Vault, create a master encryption key in the Vault, assign this master encryption key to the block volume).
+
+
+12 - Ao configurar o serviço de vulnerabilidade do OCI. Quais opções ou passos são executadas para que o serviço funcione e atinja os objetivos requeridos nos hosts alvo? (Três opções).
+
+- Política IAM para Administradores para recursos VSS-FAMILY)
+- (IAM policy for Administrators for VSS_FAMILY resources).
+- O serviço de escaneamento precisa estar habilitado para ler a VNIC na instância de computação alvo.
+- (The Scanning service must also be able to read the VNIC on your target compute instances).
+- Crie o host alvo.
+- (Create the host target).
+
