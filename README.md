@@ -31,3 +31,16 @@ Qual das seguintes soluções podem ser usadas para esta situação?
 -
 
 #
+
+
+# Algumas questões para estudo com a resposta correta.
+
+Um cliente quer implemtnar um service de sergurança global que protege aplicações de atividades maliciosas e tráfego não desejado da internet de Cross Site Script e SQL Injections.
+
+Qual das seguintes soluções podem ser usadas para esta situação?
+
+- OCI Web Application Firewall
+
+
+
+
