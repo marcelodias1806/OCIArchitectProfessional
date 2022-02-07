@@ -62,7 +62,25 @@ Quais das seguintes soluções podem ser usadas nesta situação?
 
 Quais das seguintes soluções podem ser usadas nesta situação?
 
-- Web Application Firewall com regras de proteção
+- Web Application Firewall com regras de proteção.
 - (Web Application Firewall with protection rules).
-- 
+
+
+5 - Um arquiteto de soluções do OCI está trabalhando em uma solução que consiste na carga de dados e análise de dados de triagens clínicas de uma companhia farmacêutica. Os dados são altamente confidenciais e por razões de governança o hardware não pode ser multi-tenant. A manutenção do banco de dados deve requerer mínimas habilidades do DBA e oferecer mais alta disponibilidade com RTO de alguns poucos minutos e zero potencial de perda de dados.
+
+Qual opção de banco de dados é o melhor conjunto?
+
+- Autonomous Database com Exadata Infrasestrutura Dedicada com Data Guard.
+- (Autonomous Database with Exadata Dedicated Infrastructure with Data Guard).
+
+
+6 - Um arquiteto de soluções do OCI está trabalhando em um banco de dados que pode escalar automaticamente para combinar com a carga de trabalho correta. Nós queremos minimizar o custo se dado uma escolha.
+
+Quais opções de conjunto de banco de dados são melhores. Escolha 2?
+
+- Autonomous Database com Infraestrutura Exadata Compartilhada.
+- (Autonomous Database Shared Exadata Infrastructure).
+- Habilitar o Auto Scaling de OCPU.
+- (Enable the Autoscaling of OCPU).
+
 
