@@ -39,8 +39,30 @@ Qual das seguintes soluções podem ser usadas para esta situação?
 
 Qual das seguintes soluções podem ser usadas para esta situação?
 
-- OCI Web Application Firewall
+- OCI Web Application Firewall.
 
 
+2 - Uma organização de mídia global está trabalhando em um projeto que permite que os usuários façam upload de vídeos para o site. Depois do upload completo, o vídeo deve ser automaticamente processado por um algoritmo de IA. O algoritmo deverá tentar reconhecer certas ações nos vídeos em que podem ser usados para mostrar publicidades relacionadas no futurno. O time de desenvolvimento quer focar em escrever o código de IA e não quer se preocupar com a infraestrutura subjacente em alta-disponibilidade, escalabilidade, segurança e monitoramento.
 
+Quais serviçoes do OCI devem ser recomendados para este projeto?
+
+- Utilize Object Storage para armazenar os vídeos, OCI Events services e OCI Functions.
+- (Use Object Storage to storing videos, OCI Events services and OCI Functions).
+
+
+3 - Um cliente está em processo de mudar seu aplicativo baseado em web de vendas de seu próprio Data Center localizado no US West para a região OCI India West (Mumbai). Eles querem fazer de uma maneira controlada e inicialmente só 1% do tráfego deverá ser direcionado (steered) para os servidores no OCI. Depois de verificar que tudo está funcionando como o esperado, a companhia está planejando gradualmente aumentar a taxa até que estejam confortáveis com a total migração de todo o tráfego para o OCI.
+
+Quais das seguintes soluções podem ser usadas nesta situação?
+
+- OCI DNS e Gerenciamento de Tráfego com política de Direção de Load Balancer.
+- (OCI DNS and Traffic Management with Load Balancer Steering policy).
+
+
+4 - Um cliente dos Estados Unidos quer parar um vazamento de previdência social e parar uploads de executáveis via formulários de entrada.
+
+Quais das seguintes soluções podem ser usadas nesta situação?
+
+- Web Application Firewall com regras de proteção
+- (Web Application Firewall with protection rules).
+- 
 
