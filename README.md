@@ -1,9 +1,9 @@
 # OCIArchitectProfessional
 Preparatório para o exame Oracle Cloud Infrastructure Architect Professional
 
--
+- Este é um Guia de estudo para o exame da Oracle para a certificação OCI Architect Professional
 
--
+- Isto não é Dump de prova, é um guia de estudo com alguns cenários, questões parecidas e dos exemplos das aulas que eu fiz a tradução. Creio que possa ser útil como complemento aos estudos para a certificação. Portanto, isso não substitui as aulas do curso oficial, deve ser usado como complemento de estudos.
 
 # Dicas de Preparação do exame
 
