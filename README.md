@@ -23,7 +23,7 @@ Um cliente quer implemtnar um service de sergurança global que protege aplicaç
 
 Qual das seguintes soluções podem ser usadas para esta situação?
 
-- <b> A: OCI Web Application Firewall </b>
+- <b><i> A: OCI Web Application Firewall </i></b>
 - B: OCI DNS Service
 - C: OCI Load Balancer
 - D: OCI DNS Service com OCI Load Balance Service
